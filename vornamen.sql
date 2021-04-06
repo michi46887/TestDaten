@@ -17,7 +17,6 @@ insert into T002_Vorname(name,anzahl,geschlecht) values
 ,('Anna',76,'w')
 ,('Alexander',70,'m')
 ,('Maximilian',70,'m')
-,('Maximilian',70,'m')
 ,('Lena',70,'w')
 ,('Elias',69,'m')
 ,('Anton',65,'m')
