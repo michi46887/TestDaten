@@ -1,3 +1,5 @@
+create table T006_Strassen (ID int identity not null, strasse varchar(200))
+insert into T006_Strassen (strasse)
 Aach
 Aachener Ende
 Aachener Landstraße
@@ -221,7 +223,7 @@ Achtermoor
 Achtern Barg
 Achternbergstraße
 Achtern Born
-Achter'n Diek
+Achtern Diek
 Achtern Diek
 Achtern Dörp
 Achternfelde
@@ -2145,7 +2147,7 @@ Altes Feld
 Altes Freibad
 Altes Gut
 Altes Gutshaus
-Alte 's-Heerenberger Straße
+Alte s-Heerenberger Straße
 Altes Heidland
 Altes Hohes Feld
 Alte Siedlung
@@ -10971,8 +10973,8 @@ Andresenstraße
 Andrestraße
 Andréstraße
 André-Träger-Straße
-An d'r Hahnepooz
-An d'r Kapell
+An dr Hahnepooz
+An dr Kapell
 Andromedastraße
 Andruper Weg
 Anebosweg
@@ -11168,7 +11170,7 @@ Annette-von Droste-Hülshoff-Weg
 Annette-von-Droste-Hülshoff-Weg
 Annette-von-Droste-Straße
 Anneweihstraße
-An'n Graaben
+Ann Graaben
 Anni-Albers-Straße
 Anning
 Anni-Siepe-Straße
@@ -11234,7 +11236,7 @@ An St. Urban
 An St. Vinzenz
 Antaresstraße
 Antersberger Straße
-An't Hager Deep
+Ant Hager Deep
 Anthony-Fokker-Straße
 Anthurienstraße
 An Tiebes Eiche
@@ -11242,7 +11244,7 @@ Antilopenweg
 Ant Koornfeld
 Antoinettenstraße
 Antoinusstraße
-An't Ojemanns Plaats
+Ant Ojemanns Plaats
 Anton-Aulke-Ring
 Anton-Barth-Weg
 Anton-Bayer-Straße
@@ -11345,7 +11347,7 @@ Anton-Woger-Straße
 Anton-Zahoransky-Straße
 Anton-Zickmantel-Straße
 Anto-Webern-Straße
-An't Pumpwark
+Ant Pumpwark
 Antropstraße
 Antweiler Weg
 Antwerpener Straße
@@ -12870,47 +12872,47 @@ Auf Kochenwinkel
 Auf Koop
 Auf Krummerück
 Auf Landern
-Auf'm Berg
-Auf'm Bildkäppele
-Auf'm Bleck
-Auf'm Bögel
+Aufm Berg
+Aufm Bildkäppele
+Aufm Bleck
+Aufm Bögel
 Auf´m Bohlen
-Auf'm Böntchen
-Auf'm Brautschatz
-Auf'm Brinke
-Auf'm Brinkkamp
-Auf'm Bruch
-Auf'm Carlsberg
-Auf'm Döselsberg
-Auf'm Gartenstück
-Auf'm Großenfeld
+Aufm Böntchen
+Aufm Brautschatz
+Aufm Brinke
+Aufm Brinkkamp
+Aufm Bruch
+Aufm Carlsberg
+Aufm Döselsberg
+Aufm Gartenstück
+Aufm Großenfeld
 Auf´m Grünnecken
 Auf´m Heidfeld
 Auf m Hennekamp
-Auf'm Hennekamp
-Auf'm Hofacker
-auf'm Hügelchen
+Aufm Hennekamp
+Aufm Hofacker
+aufm Hügelchen
 Auf Mittelhardt
-Auf'm Kamp
-Auf'm Kampe
-Auf'm Keller
-Auf'm Kinderheid
-Auf'm Kirchenbühl
-Auf'm Kirchenland
+Aufm Kamp
+Aufm Kampe
+Aufm Keller
+Aufm Kinderheid
+Aufm Kirchenbühl
+Aufm Kirchenland
 Auf´m Kley
-Auf'm Knappe
-Auf'm Körtchen
-Auf'm Kostenkamp
-Auf'm Lehmbrink
-Auf'm Melm
-Auf'm Pesch
-Auf'm Plätzchen
-Auf'm Plätzle
-Auf'm Reck
-Auf'm Rott
-Auf'm Scheid
-Auf'm Schinnhengst
-Auf'm Uhlenbroich
+Aufm Knappe
+Aufm Körtchen
+Aufm Kostenkamp
+Aufm Lehmbrink
+Aufm Melm
+Aufm Pesch
+Aufm Plätzchen
+Aufm Plätzle
+Aufm Reck
+Aufm Rott
+Aufm Scheid
+Aufm Schinnhengst
+Aufm Uhlenbroich
 Auf´m Werth
 Auf Reinskopf
 Auf Rheinberg
@@ -13312,7 +13314,7 @@ Avenariusstraße
 Aventinstraße
 Aventinusplatz
 Aventinusstraße
-Avenue du Pont de l'Europe
+Avenue du Pont de lEurope
 Avenwedder Straße
 Averbergstraße
 Averdung
@@ -14797,7 +14799,7 @@ Beim Brechhaus
 Beim Breitenstein
 Beim Brückentor
 Beim Brünnele
-Beim B'scheid
+Beim Bscheid
 Beim Diasporahaus
 Beim Dorf
 Beim Dorfgraben
@@ -15456,7 +15458,7 @@ Berkerpatt
 Berkersheimer Bahnstraße
 Berkersheimer Weg
 Berkeser Straße
-Berk'sche Straße
+Berksche Straße
 Berlebecker Straße
 Berleburger Weg
 Berlepsch
@@ -18342,7 +18344,7 @@ Bremsstraße
 Bremstraße
 Bremthaler Straße
 Bremweg
-Brend'amourstraße
+Brendamourstraße
 Brendelstraße
 Brendelweg
 Brender Straße
@@ -21507,7 +21509,7 @@ Dalienstraße
 Dalitzer Weg
 Dalkamp
 Dalkinger Straße
-Dall'Armistraße
+DallArmistraße
 Dallauer Straße
 Dallbregenstieg
 Dalldorfer Straße
@@ -22301,7 +22303,7 @@ Dewitzer Chaussee
 Deworastraße
 Dexionstraße
 Deyehof
-D'horner Straße
+Dhorner Straße
 Dhünner Weg
 Diagonale
 Diagonalstraße
@@ -22500,7 +22502,7 @@ Dierkower Allee
 Dierkower Damm
 Dierkower Höhe
 Dierksstraße
-Dier'sche Weide
+Diersche Weide
 Diersweg
 Diesberg
 Die Schenksgasse
@@ -31675,7 +31677,7 @@ Gellertstraße
 Gellertweg
 Gellinghausen
 Gellmersbacher Straße
-Gell'sche Straße
+Gellsche Straße
 Gelmerheide
 Gelnhäuser Straße
 Gelnhäuser Weg
@@ -37689,7 +37691,7 @@ Haus Uhlenkotten
 Hausvaterweg
 Haus Vögeding
 Hausvogteiplatz
-Haus vor Leo's Ruh
+Haus vor Leos Ruh
 Haus-Vorster-Straße
 Hausweide
 Hauswiese
@@ -40491,7 +40493,7 @@ Himmlerweg
 Himpendahlweg
 Himptenweg
 Hinang
-Hinck's Platz
+Hincks Platz
 Hindelanger Straße
 Hindemithstraße
 Hindemithweg
@@ -40790,7 +40792,7 @@ Hinterm Bahnhof
 Hinterm Born
 Hinterm Burggraben
 Hinterm Dorf
-Hinter'm Dorfe
+Hinterm Dorfe
 Hinterm Dorfe
 Hintermehring
 Hinterm Garten
@@ -40805,7 +40807,7 @@ Hinterm Hammer
 Hinterm Heleneschacht
 Hinterm Herrn
 Hinterm Hof
-Hinter'm Holz
+Hinterm Holz
 Hinterm Holz
 Hinterm Idaschacht
 Hinterm Knappe
@@ -40820,7 +40822,7 @@ Hinterm Ringau
 Hinterm Schloß
 Hinterm Schulgarten
 Hinterm See
-Hinter'm Siechenbach
+Hinterm Siechenbach
 Hinterm Stern
 Hinterm Stiegel
 Hinterm Tannenwald
@@ -46483,7 +46485,7 @@ In der Zehnt
 In der Zeil
 In Der Zeitenbach
 Indira-Gandhi-Straße
-In d'Kamp
+In dKamp
 Indlekofener Straße
 Indlinger Straße
 In Dornhecken
@@ -46571,8 +46573,8 @@ In Macherbach
 In Mehlbusch
 Innauenstraße
 Innbrückgasse
-In'n Deel
-In'n Dörp
+Inn Deel
+Inn Dörp
 Innebergweg
 Inneboltstraße
 Innenbergstraße
@@ -46677,7 +46679,7 @@ Institutsstraße
 Institutstraße
 Institutsweg
 Insulaweg
-In't Brook
+Int Brook
 Inter-Logistik-Park
 Interne Sporthalle
 In Tetelrath
@@ -49028,9 +49030,9 @@ Kapstadtring
 Kapstraße
 Kapsweyerer Straße
 Kaptain-Lehmann-Straße
-Käpt'n-Christiansen-Straße
-Käptn's Gang
-Käpt'n Weg
+Käptn-Christiansen-Straße
+Käptns Gang
+Käptn Weg
 Kapuzinerberg
 Kapuzinergasse
 Kapuzinergraben
@@ -52050,7 +52052,7 @@ Kochsfeld
 Kochstedter Kreisstraße
 Koch-Sternfeld-Straße
 Kochstraße
-Koch's Weg
+Kochs Weg
 Kochweg
 Köckbrunn
 Kockerellstraße
@@ -52194,7 +52196,7 @@ Köhner Brücke
 Köhnestraße
 Köhnholz
 Köhnstraße
-Köhn's Übergang
+Köhns Übergang
 Kohrbleiche
 Kohrener Straße
 Kohrener Straße 6-12
@@ -53288,7 +53290,7 @@ Kremper Rhin
 Kremper Straße
 Kremper Weg
 Kremplsetzerstraße
-Kremp'sche Spitze
+Krempsche Spitze
 Krempsche Spitze
 Kremserstraße
 Kremser Straße
@@ -54508,7 +54510,7 @@ Ladenweg
 Ladeshalde
 Ladestraße
 Ladiusstraße
-Laehr'scher Jagdweg
+Laehrscher Jagdweg
 Laeiszstraße
 Laerbrockstraße
 Laerchwaldstraße
@@ -54574,7 +54576,7 @@ Laienbergstraße
 Laienstraße
 Laiernstraße
 Laierweg
-L'Aigler Platz
+LAigler Platz
 Laijeweg
 Lailensäckerstraße
 Laimbach
@@ -54674,7 +54676,7 @@ Lampestraße
 Lampingstraße
 Lamplmühle
 Lamplstraße
-Lamp'lweg
+Lamplweg
 Lampolz
 Lamprecht
 Lamprechts
@@ -55142,7 +55144,7 @@ Langsteeven
 Langstraße
 Langstuck
 Langstücken
-Lang't Dörp
+Langt Dörp
 Langtoft
 Langwadener Straße
 Langwahn
@@ -56716,7 +56718,7 @@ Lina-Morgenstern-Straße
 Linamweg
 Lina-Oetker-Straße
 Lina-Schäfer-Straße
-Lina's Diek
+Linas Diek
 Linauweg
 Lina-Wehrle-Straße
 Linckensstraße
@@ -57478,7 +57480,7 @@ Looheide
 Lookenstraße
 Looker Straße
 Loosberg
-Loo'scher Weg
+Looscher Weg
 Loosen
 Loosestraße
 Loosgasse
@@ -58225,7 +58227,7 @@ Luppa
 Luppenaue
 Luppenstraße
 Luppstraße
-Lüps'sche Straße
+Lüpssche Straße
 Lupsteiner Weg
 Lüptitzer Straße
 Lurbaumstraße
@@ -64303,7 +64305,7 @@ Nonnhof
 Nonnholzstraße
 Nonnstraße
 Nonnweiler Straße
-No'n Stüh
+Non Stüh
 Noorderloog
 Noorderpad
 Noorderstrundwai
@@ -65355,12 +65357,12 @@ Obermauerstraße
 Obermayerstraße
 Obermeiers Feld
 Obermelsendorf
-Ober'm Illerfeld
+Oberm Illerfeld
 Ober-Modauer Straße
 Obermoosweg
 Obermoselstraße
 Obermossauer Straße
-Ober'm Stadtweiher
+Oberm Stadtweiher
 Obermühl
 Obermühlberg
 Obermühle
@@ -66146,14 +66148,14 @@ Opitzstraße
 Opladener Platz
 Opladener Straße
 Opm Blockhorn
-Op'n Barg
+Opn Barg
 Opn Block
-Op'n Diek
-Op 'n Donnerloh
-Op'n Dörp
-Op'n Haidbarg
-Op'n Hainholt
-Op'n Klint
+Opn Diek
+Op n Donnerloh
+Opn Dörp
+Opn Haidbarg
+Opn Hainholt
+Opn Klint
 Opn Plack
 Opn Stüg
 Oppacher Straße
@@ -66700,7 +66702,7 @@ Oswald-Hesse-Straße
 Oswald-Merz-Straße
 Oswald-Spengler-Straße
 Oswaldstraße
-O'Swaldstraße
+OSwaldstraße
 Oswald-von-Nell-Breuning-Straße
 Oswaldweg
 Oswald-Zobel-Straße
@@ -69375,7 +69377,7 @@ Pontdriesch
 Ponteilstraße
 Pontestraße
 Pontivystraße
-Pont-l'Evêque-Allee
+Pont-lEvêque-Allee
 Pontsheide
 Pontstraße
 Pontwall
@@ -74898,7 +74900,7 @@ Salvador-Allende-Platz
 Salvador Allende Straße
 Salvador-Allende-Straße
 Salvador-Dali-Weg
-Salvatore-d'Amato-Platz
+Salvatore-dAmato-Platz
 Salvatorgässchen
 Salvatorgasse
 Salvatorplatz
@@ -75362,7 +75364,7 @@ San-Sebastian-Platz
 Sansibarstraße
 Sanspareil
 Sanssouci
-Sant'-Ambrogio-Ring
+Sant-Ambrogio-Ring
 Santander-Platz
 Säntisblick
 Säntisstraße
@@ -77176,7 +77178,7 @@ Schnakenwinkelweg
 Schnampelweg
 Schnapp
 Schnappelberg
-Schnapp's Hof
+Schnapps Hof
 Schnappweg
 Schnarrenbergstraße
 Schnarsleber Straße
@@ -77860,7 +77862,7 @@ Schule
 Schulecke
 Schulenbeksweg
 Schulenberger Straße
-Schulenberg's Kamp
+Schulenbergs Kamp
 Schulenbrooksweg
 Schulenburg
 Schulenburger Landstraße
@@ -79297,7 +79299,7 @@ S.-G.-Frentzel-Straße
 Shakespeareplatz
 Shakespearestraße
 Shanghaiallee
-'s-Heerenberger Straße
+s-Heerenberger Straße
 Shrewsbury Way
 Shukowstraße
 Siabbenmoor
@@ -84911,14 +84913,14 @@ Tondernsche Straße
 Tondernstieg
 Tondernstraße
 Tøndervej
-To'n Diek
+Ton Diek
 Ton Diek
 Tonenburg
 Tönges Feld
 Töngesgasse
 Tongrubenstraße
 Tonhallenstraße
-To'n Hook
+Ton Hook
 Tonhüttenweg
 Tonibauer
 Toni-Pfülf-Straße
@@ -85732,7 +85734,7 @@ Ubbo-Emmius-Straße
 Überlinger Weg
 Überm Erdbach
 Überm Gänseholze
-Über'm Mäuerle
+Überm Mäuerle
 Übermühlen
 Überreiterweg
 Überruhrstraße
@@ -86609,10 +86611,10 @@ Unterm Beggenbeil
 Untermberg
 Unterm Berg
 Unterm Berge
-Unter'm Bleicherösch
+Unterm Bleicherösch
 Unterm Bornrain
 Unterm Buch
-Unter'm Bucharts
+Unterm Bucharts
 Unterm Dammfeld
 Unterm Dorf
 Unterm Dorfgarten
@@ -86627,7 +86629,7 @@ Unterm Freihof
 Unterm Georgenberg
 Unterm Haane
 Unterm Hafen
-Unter'm Hagen
+Unterm Hagen
 Unterm Hagen
 Unterm Hahnen
 Unterm Hampelberg
@@ -86772,12 +86774,12 @@ Upjeversche Straße
 Upländer Straße
 Uplandstraße
 Uplengener Straße
-Up'me Auger
-Up'n Brink
+Upme Auger
+Upn Brink
 Upn Hoff
-Up'n Kamp
-Up'n Knust
-Up'n Warnowsand
+Upn Kamp
+Upn Knust
+Upn Warnowsand
 Uppe Angst
 Uppenhof
 Uppenkamp
@@ -86944,7 +86946,7 @@ Vaihinger Landstraße
 Vaihinger Markt
 Vaihinger Straße
 Valberter Straße
-<val='Bertolt-Brecht-Straße',<Priority; inDataSet: false, inStandard: false, selected: false>>
+<val=Bertolt-Brecht-Straße,<Priority; inDataSet: false, inStandard: false, selected: false>>
 Valckenburgufer
 Valdagno-Platz
 Valdemarsgade
@@ -86974,16 +86976,16 @@ Valentinweg
 Valepperstraße
 Valepper Straße
 Valeppstraße
-<val='Erfurter Straße',<Priority; inDataSet: false, inStandard: false, selected: false>>
+<val=Erfurter Straße,<Priority; inDataSet: false, inStandard: false, selected: false>>
 Valeria-Kratina-Weg
 Valerieweg
 Valersgarten
 Valerystraße
 Valesistraße
-<val='Friedrich-List-Straße',<Priority; inDataSet: false, inStandard: false, selected: false>>
+<val=Friedrich-List-Straße,<Priority; inDataSet: false, inStandard: false, selected: false>>
 Valkenburger Straße
 Valkenierstraße
-<val='Kurt-Tucholsky-Straße',<Priority; inDataSet: false, inStandard: false, selected: false>>
+<val=Kurt-Tucholsky-Straße,<Priority; inDataSet: false, inStandard: false, selected: false>>
 Vallendarer Straße
 Valleyer Straße
 Valleyer Weg
@@ -86992,11 +86994,11 @@ Vallstedter Weg
 Valmestraße
 Valmeweg
 Valparaisostraße
-<val='Parkstraße',<Priority; inDataSet: false, inStandard: false, selected: false>>
+<val=Parkstraße,<Priority; inDataSet: false, inStandard: false, selected: false>>
 Valpichlerstraße
-<val='Röpziger Straße',<Priority; inDataSet: false, inStandard: false, selected: false>>
+<val=Röpziger Straße,<Priority; inDataSet: false, inStandard: false, selected: false>>
 Valterweg
-<val='Upsalastraße',<Priority; inDataSet: false, inStandard: false, selected: false>>
+<val=Upsalastraße,<Priority; inDataSet: false, inStandard: false, selected: false>>
 Valve
 Valznerweiherstraße
 Van-Beethoven-Straße
@@ -88441,7 +88443,7 @@ Vorm Niederend
 Vorm Obernberge
 Vor Mönchsgarten
 Vorm Salzeck
-Vor'm Stadtweiher
+Vorm Stadtweiher
 Vormstegen
 Vorm Thoren
 Vorm Wald
